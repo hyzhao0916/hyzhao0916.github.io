@@ -37,5 +37,5 @@ Working Student · Actuarial modelling and reinsurance
 Python · R · LaTeX · Financial modelling · Statistical analysis · Reinforcement learning
 
 For selected research projects, see the [Research](/research/) and [Projects](/projects/) pages.
-ding cv.md…]()
+
 
