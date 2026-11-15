@@ -3,9 +3,6 @@ permalink: /research/
 title: "Research"
 author_profile: true
 ---
-
-# Research
-
 My academic interests centre on actuarial science, pension risk, quantitative finance, and statistical learning, with a focus on methods that can support long-term financial decisions under uncertainty.
 
 ## Deep Q-Learning for Defined Contribution Pension Investment
