@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About me
-
 I am a master's student in **Actuarial Science and Mathematical Finance** at the **University of Amsterdam (UvA)** and a **Working Student at Milliman Benelux**, focusing on machine learning applications in actuarial science.
 
 My interests lie at the intersection of actuarial science, quantitative finance, risk management, and machine learning. I am particularly interested in how statistical and computational methods can improve long-term financial decision-making and pension design.
