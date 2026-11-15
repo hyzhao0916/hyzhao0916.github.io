@@ -3,8 +3,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 ---
-# Projects: DC Pension Investment with Deep Q-Learning
-
+# DC Pension Investment with Deep Q-Learning
 **Python · Reinforcement learning · Portfolio optimisation · Pension risk**
 
 A research implementation of Deep Q-Network strategies for pension asset allocation with an inflation-indexed guarantee. Includes notebooks for model development, benchmarking, and robustness analysis.
