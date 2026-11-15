@@ -1,12 +1,8 @@
 ---
 permalink: /cv/
-title: ""
+title: "CV"
 author_profile: true
 ---
-
-
-# Curriculum Vitae
-
 ## Education
 
 **University of Amsterdam**  
