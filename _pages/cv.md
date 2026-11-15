@@ -1,64 +1,39 @@
----
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Curriculum Vitae
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**University of Amsterdam**  
+MSc Actuarial Science and Mathematical Finance · 2026–present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**University of Amsterdam**  
+BSc Actuarial Science · Graduated 2026  
+Bachelor's thesis grade: **9/10**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Bocconi University, Milan**  
+Exchange semester · Autumn 2025
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Professional experience
+
+**Milliman Benelux**  
+Working Student, Pensions · From November 2026
+
+**Aon Re**  
+Working Student · Actuarial modelling and reinsurance
+
+## Academic and extracurricular activities
+
+- Chair, VSAE Actuarial Congress 2027
+- Member of the winning team, Oliver Wyman Marker Wadden Business Course (2026)
+
+## Technical skills
+
+Python · R · LaTeX · Financial modelling · Statistical analysis · Reinforcement learning
+
+For selected research projects, see the [Research](/research/) and [Projects](/projects/) pages.
+ding cv.md…]()
+
