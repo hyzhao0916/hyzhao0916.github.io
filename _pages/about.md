@@ -9,7 +9,7 @@ redirect_from:
 
 # About me
 
-I am a master's student in **Actuarial Science and Mathematical Finance** at the **University of Amsterdam (UvA)** and a **Working Student at Milliman Benelux**, focusing on pensions.
+I am a master's student in **Actuarial Science and Mathematical Finance** at the **University of Amsterdam (UvA)** and a **Working Student at Milliman Benelux**, focusing on machine learning applications in actuarial science.
 
 My interests lie at the intersection of actuarial science, quantitative finance, risk management, and machine learning. I am particularly interested in how statistical and computational methods can improve long-term financial decision-making and pension design.
 
@@ -33,6 +33,8 @@ I developed and evaluated Deep Q-Network (DQN) strategies for portfolio allocati
 ## Current activities
 
 Alongside my master's studies and work at Milliman, I serve as Chair of the **VSAE Actuarial Congress 2027**.
+
+[View our Actuarial Congress website](https://www.actuariaatcongres.nl/congress)
 
 ## Contact
 
