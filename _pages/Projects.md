@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 ---
-## DC Pension Investment with Deep Q-Learning
+# Projects: DC Pension Investment with Deep Q-Learning
 
 **Python · Reinforcement learning · Portfolio optimisation · Pension risk**
 
