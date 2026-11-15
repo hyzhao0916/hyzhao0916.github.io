@@ -3,8 +3,8 @@ permalink: /cv/
 title: "CV"
 author_profile: true
 ---
-## Education
 
+## Education
 **University of Amsterdam**  
 MSc Actuarial Science and Mathematical Finance · 2026–present
 
